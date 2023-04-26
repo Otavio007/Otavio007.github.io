@@ -1,0 +1,270 @@
+body{
+    background-color: rgb(241, 240, 240);
+}
+
+
+html {
+    overflow-x: hidden;
+  }
+
+.barrasuperior{
+    left: 0.2px;
+    top: -15px;
+    width: 100%;
+    height: 100px;
+    background-color: white;
+    position: fixed;
+}
+ 
+.imgplanta{
+    width: 50%;
+    height: 500px;
+    left: -8px;
+    top: 77px;
+    position: relative;
+}
+
+.nomeempresa{
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    position: relative;
+    left: 5%;
+    top: 5px;
+}
+
+.textobarra{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: black;
+    text-decoration: underline;
+    position: relative;
+    top: -50%;
+    left: 70%;
+}
+
+
+.textobarra:hover{
+    color: rgb(78, 78, 78);
+}
+
+.texto2barra{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: black;
+    position: relative;
+    top: -93%;
+    left: 77%;
+}
+.texto2barra:hover{
+    color: rgb(78, 78, 78);
+}
+
+.texto3barra{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: black;
+    position: relative;
+    top: -136%;
+    left: 87%;
+}
+.texto3barra:hover{
+    color: rgb(78, 78, 78);
+}
+
+.quadropretoinicio{
+    background-color: black;
+    width: 51%;
+    height: 500px;
+    float: right;
+    top: -427px;
+    right: -7.5px;
+    position: relative;   
+}
+
+h1{
+    color: white;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+    top: 50px;
+    position: relative;
+}
+
+.textoinicio{
+    color: rgb(90, 90, 90);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    top: 70px;
+    position: relative;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.telefone:hover{
+    color: white;
+}
+
+.ordernow{
+    background-color: white;
+    width: 150px;
+    height: 50px;
+    left: 40%;
+    top: 70px;
+    position: relative;
+}
+
+.textorder{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+    top: 17px;
+    position: relative;
+}
+
+a{
+    text-decoration: none;
+}
+
+.barra2{
+    background-color: white;
+    width: 100%;
+    height: 300px;
+    position: relative;
+    top: 53px;
+    left: 0px;
+    border-width: 10px;
+    border-color: white;
+}
+
+h2{
+    position: relative;
+    left: 40%;
+    top: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.textobarra2{
+    text-align: center;
+    position: relative;
+    left: 25%;
+    top: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 13px;
+    color: rgb(90, 90, 90);
+}
+
+.botambarra2{
+    background-color: rgb(0, 0, 0);
+    width: 150px;
+    height: 50px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    left: 44%;
+    top:70px;
+}
+.textbotam{
+    position: relative;
+    top: 15px;
+    left: 22px;
+}
+
+h3{
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 100px;
+    left: 41%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+}
+
+.imgcaminhao{
+    position: relative;
+    top: 120px;
+    left: 13%;
+    width: 30%;
+}
+
+.titulocaminhao{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    position: relative;
+    top: -150px;
+    left: 65%;
+}
+
+.textcaminhao{
+    text-align: center;
+    position: relative;
+    top: -150px;
+    left: 20%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(90, 90, 90);
+}
+
+.quadrobrancofinal{
+    width: 100%;
+    height: 500px;
+    background-color: rgb(255, 255, 255);
+}
+
+h4{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    position: relative;
+    left: 45%;
+    top: 20px;
+}
+
+.whatsapp{
+    color: rgb(0, 183, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    text-decoration: underline;
+}
+
+.imgwhats{
+    width: 300px;
+    height: 140px;
+    position: relative;
+    left: -110px;
+    top: -75px;
+}
+
+.whats{
+    color: white;
+    position: relative;
+    left: -120px;
+    top: 127px;
+}
+
+.number{
+
+    position: relative;
+    left: 60px;
+    top: 12px;
+
+}
+
+.btnwhats{
+    background-color: rgb(78, 78, 78);
+    position: relative;
+    height: 45px;
+    width: 200px;
+    top: 0px;
+    left: 240px;
+    border-radius: 10px;
+}
+
+.imginsta{
+    width: 50px;
+    height: 45px;
+    position: relative;
+    left: 2px;
+    top: -75%;
+}

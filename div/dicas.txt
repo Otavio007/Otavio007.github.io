@@ -1,0 +1,16 @@
+## DICAS ##
+
+1º - A DIV principal, tem 400px x 400px
+2º - Todas as divs tem 5px de margem
+3º - Na página cor 1 a faixa vermelha tem 90px x 390px
+4º - Na página cor 3, 4 e 5 a faixa preta tem 90px x 390px
+
+Cores
+
+fundo conteúdo - #CCC
+Fundo div principal - #FFF
+Vermelho - #F00
+Amarelo - #FF0
+Preto - #000
+Azul - #00F
+
